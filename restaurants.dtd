@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT restaurant (restaurants+)>
+#<!-- defining document strucutre: individual letter -->
+<!ELEMENT restaurant (id, name, cuisine, city, open, close,)
+<!ATTLIST id CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT cuisine (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT open (#PCDATA time | am/pm)>
+<!ELEMENT close (#PCDATA)>
+
+
+
+
+
+
+
+
