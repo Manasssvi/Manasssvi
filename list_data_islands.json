@@ -1,0 +1,22 @@
+{
+	"islands visited": [
+		{
+			"Island": "Andamans",
+			"Country": "India",
+			"Year visited": "2021",
+			"With": "Friends"
+		},
+		{
+			"Island": "Koh Tao",
+			"Country": "Thailand",
+			"Year visited": "2017",
+			"With": "Family & Friends"
+		},
+		{
+			"Island": "Gili Isalnds",
+			"Country": "Indonesia",
+			"Year visited": "2016",
+			"With": "Family"
+		}
+	]
+}
