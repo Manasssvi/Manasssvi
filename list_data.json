@@ -1,22 +1,22 @@
 {
-	"islands visited": [
+	"Dive Sites": [
 		{
+			"Dive Site": "Dickson's Pinnacle",
 			"Island": "Andamans",
-			"Country": "India",
-			"Year visited": "2021",
-			"With": "Friends"
+			"Year": "2021",
+			"Fav Spotting": "Marbled ray"
 		},
 		{
+			"Dive Site": "Japanese Gardens",
 			"Island": "Koh Tao",
-			"Country": "Thailand",
-			"Year visited": "2017",
-			"With": "Family & Friends"
+			"Year": "2017",
+			"Fav Spotting": "Sea Turtle"
 		},
 		{
-			"Island": "Gili Isalnds",
-			"Country": "Indonesia",
-			"Year visited": "2016",
-			"With": "Family"
+			"Dive Site": "Hann's Reef",
+			"Island": "Gili Island",
+			"Year": "2016",
+			"Fav Spotting": "Lion Fish"
 		}
 	]
 }
