@@ -38,7 +38,7 @@
         * Add data to table
         * Add table to DOM
         */
-        fetch('./list_data_m.json')
+        fetch('./list_data.json')
             .then(response => response.json())
             .then(data => {
 
@@ -61,8 +61,6 @@
                     var th = document.createElement("th");      
                     th.innerHTML = header;
                     tr.appendChild(th);
-                
-                }
                 })              
                 /*
                 This section adds the data into each row of the list
